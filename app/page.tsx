@@ -7,9 +7,11 @@ export default function Home() {
 
       </div>
 
-      <div className="relative flex place-items-center  ">
-      <h2>Peter Kiptanui</h2>
+      <div className="  ">
+      <h2>Peter Kipkoech</h2>
+      <br></br>
       <h2>Team Winners</h2>
+      <br></br>
       <h2>This is the project we dockerized</h2>
       </div>
 
